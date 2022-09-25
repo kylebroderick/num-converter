@@ -1,0 +1,11 @@
+.container {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.form {
+  text-align: left;
+  margin-bottom: 35px;
+}
